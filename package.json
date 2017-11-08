@@ -1,0 +1,9 @@
+{
+  "name": "JSMQ",
+  "version": "1.0.0",
+  "description": "JavaScript version of JeroMQ ",
+  "main": "JSMQ.js",
+  "repository": "git@github.com:samirbr/JSMQ.git",
+  "author": "Samir El Aouar <samirbr@gmail.com>",
+  "license": "MIT"
+}
